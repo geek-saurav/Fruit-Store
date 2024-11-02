@@ -35,7 +35,7 @@ To set up the project locally, follow these steps:
 2. Navigate to the project Directory:
    ```bash
    cd juicymarket
-  ```
+     ```
 
 3. Install the dependencies:
    ```bash
