@@ -8,9 +8,7 @@ JuicyMarket is an online fruit store application that allows users to explore a 
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [preview](#preview)
 
 ## Features
 
@@ -34,7 +32,7 @@ To set up the project locally, follow these steps:
    git clone https://github.com/your-username/juicymarket.git
    ```
 
-2.Navigate to the project Directory:
+2. Navigate to the project Directory:
    ```bash
    cd juicymarket
   ```
@@ -44,7 +42,7 @@ To set up the project locally, follow these steps:
    npm install
    ```
 
-4.Start the development server:
+4. Start the development server:
   ```bash
   npm start
   ```
